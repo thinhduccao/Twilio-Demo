@@ -1,0 +1,6 @@
+Twilio_SMS/bin/Release
+Twilio_SMS/bin/Debug
+Twilio_SMS/obj
+twilioAccount.txt
+packages
+.vs
